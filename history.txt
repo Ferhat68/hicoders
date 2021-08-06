@@ -1,0 +1,11 @@
+commit 64f3ded8f380b7547490c9a4cd03b3a3b64addc2
+Author: Ferhat <ferhataydogdu@gmail.com>
+Date:   Thu Jul 29 16:20:34 2021 +0200
+
+    ikinci commit mesajim
+
+commit 9f576ea9e539eaaa81a38d8dfa4b07a7fe8203bb
+Author: Ferhat <ferhataydogdu@gmail.com>
+Date:   Thu Jul 29 16:06:44 2021 +0200
+
+    benim ilk commit mesajim
